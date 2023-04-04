@@ -28,7 +28,7 @@ The Montgomery County Tuberculosis Control Program dataset is a collection of ch
 The dataset consists of both normal and abnormal chest X-ray images, with associated metadata and annotations. These images are often used to train and evaluate machine learning models, such as lung segmentation algorithms, for the detection and diagnosis of various lung diseases. It is a valuable resource for researchers and developers working on medical image processing and analysis in the field of radiology.
 
 
-##Result:
+## Result:
 
 Dice score achieved: 89%
 
